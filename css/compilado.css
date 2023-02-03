@@ -10,7 +10,10 @@ body {
   font-family: "Varela Round", sans-serif; }
 
 .navbar {
-  background-color: #E6E6FA; }
+  background-color: #E6E6FA;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
   .navbar-brand {
     margin: 0 40px; }
 
