@@ -11,9 +11,7 @@ body {
 
 .navbar {
   background-color: #E6E6FA;
-  width: 100%;
-  margin: 0;
-  padding: 0; }
+  width: 100%; }
   .navbar-brand {
     margin: 0 40px; }
 
@@ -22,12 +20,12 @@ body {
   .collapse ul {
     display: flex;
     flex-direction: column;
-    margin-right: 30px; }
+    margin-right: 20px; }
     .collapse ul li {
-      display: flex;
+      display: inline-flex;
       justify-content: center;
       line-height: 40px;
-      margin: 0 30px; }
+      margin: 0 20px; }
       .collapse ul li a {
         font-size: 20px;
         margin: 10px 25px;
